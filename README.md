@@ -1,11 +1,11 @@
 # Dart Basics Assignment
 
 ## Student Information
-- Full Name: **[ENTER YOUR FULL NAME]**
+- Name: **[Tuyizere]**
 - Registration Number: **26710**
 - D: **0**
 - T: **10**
-- GitHub Username: **[ENTER YOUR GITHUB USERNAME]**
+- GitHub Username: **[tuyizere-prog]**
 
 ## Assignment
 Dart Basics Assignment — Variables, Strings, Control Flow & Functions.
